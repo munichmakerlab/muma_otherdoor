@@ -1,0 +1,8 @@
+
+const char* ssid = "munichmakerlab";
+const char* password = "********";
+const char *mqtt_broker =  "mqtt.munichmakerlab.de";
+const char *mqtt_user =  "door_user";
+const char *mqtt_pass =  "******";
+
+#define MQTT_TOPIC "mumalab/otherroom/door"
